@@ -2,7 +2,7 @@
 - 👀 I’m interested in roblox's forsaken 
 - 🌱 I’m currently learning javascript 
 - 💞️ I’m looking to collaborate on video games
-- 📫 How to reach me 
+- 📫 How to reach me: managed by parents
 - 😄 Pronouns: kid 
 - ⚡ Fun fact: I eat burgers
 
