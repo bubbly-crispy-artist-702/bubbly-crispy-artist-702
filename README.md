@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @bubbly-crispy-artist-702
-- 👀 I’m interested in run a restranunt  
+- 👀 I’m interested in slap battles 
 - 🌱 I’m currently learning javascript 
 - 💞️ I’m looking to collaborate on video games
 - 📫 How to reach me: managed by parents
 - 😄 Pronouns: kid 
-- ⚡ Fun fact: I eat burgers
+- ⚡ Fun fact: I eat ramen
 
 <!---
 bubbly-crispy-artist-702/bubbly-crispy-artist-702 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
