@@ -1,0 +1,4 @@
+# local dev artifacts for the profile rebuild — not part of the public profile
+PLAN.md
+test_profile.sh
+OLD_README.md
