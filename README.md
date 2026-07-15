@@ -30,7 +30,11 @@ Right now I'm learning **JavaScript** — my very first programming language.
 
 ### 🐍 My contribution snake
 
-![Contribution Snake](https://raw.githubusercontent.com/bubbly-crispy-artist-702/snk/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bubbly-crispy-artist-702/bubbly-crispy-artist-702/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bubbly-crispy-artist-702/bubbly-crispy-artist-702/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/bubbly-crispy-artist-702/bubbly-crispy-artist-702/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <!---
 bubbly-crispy-artist-702/bubbly-crispy-artist-702 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
